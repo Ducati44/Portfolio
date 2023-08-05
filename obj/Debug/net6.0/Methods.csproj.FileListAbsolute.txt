@@ -1,0 +1,15 @@
+/Users/nicomartin/Projects/Methods/Methods/obj/Debug/net6.0/Methods.csproj.AssemblyReference.cache
+/Users/nicomartin/Projects/Methods/Methods/obj/Debug/net6.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicomartin/Projects/Methods/Methods/obj/Debug/net6.0/Methods.AssemblyInfoInputs.cache
+/Users/nicomartin/Projects/Methods/Methods/obj/Debug/net6.0/Methods.AssemblyInfo.cs
+/Users/nicomartin/Projects/Methods/Methods/obj/Debug/net6.0/Methods.csproj.CoreCompileInputs.cache
+/Users/nicomartin/Projects/Methods/Methods/bin/Debug/net6.0/Methods
+/Users/nicomartin/Projects/Methods/Methods/bin/Debug/net6.0/Methods.deps.json
+/Users/nicomartin/Projects/Methods/Methods/bin/Debug/net6.0/Methods.runtimeconfig.json
+/Users/nicomartin/Projects/Methods/Methods/bin/Debug/net6.0/Methods.dll
+/Users/nicomartin/Projects/Methods/Methods/bin/Debug/net6.0/Methods.pdb
+/Users/nicomartin/Projects/Methods/Methods/obj/Debug/net6.0/Methods.dll
+/Users/nicomartin/Projects/Methods/Methods/obj/Debug/net6.0/refint/Methods.dll
+/Users/nicomartin/Projects/Methods/Methods/obj/Debug/net6.0/Methods.pdb
+/Users/nicomartin/Projects/Methods/Methods/obj/Debug/net6.0/Methods.genruntimeconfig.cache
+/Users/nicomartin/Projects/Methods/Methods/obj/Debug/net6.0/ref/Methods.dll

@@ -1,0 +1,15 @@
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/obj/Debug/net6.0/Assignment_1.csproj.AssemblyReference.cache
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/obj/Debug/net6.0/Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/obj/Debug/net6.0/Assignment_1.AssemblyInfoInputs.cache
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/obj/Debug/net6.0/Assignment_1.AssemblyInfo.cs
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/obj/Debug/net6.0/Assignment_1.csproj.CoreCompileInputs.cache
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/bin/Debug/net6.0/Assignment_1
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/bin/Debug/net6.0/Assignment_1.deps.json
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/bin/Debug/net6.0/Assignment_1.runtimeconfig.json
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/bin/Debug/net6.0/Assignment_1.dll
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/bin/Debug/net6.0/Assignment_1.pdb
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/obj/Debug/net6.0/Assignment_1.dll
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/obj/Debug/net6.0/refint/Assignment_1.dll
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/obj/Debug/net6.0/Assignment_1.pdb
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/obj/Debug/net6.0/Assignment_1.genruntimeconfig.cache
+/Users/nicomartin/Projects/Assignment_1/Assignment_1/obj/Debug/net6.0/ref/Assignment_1.dll
